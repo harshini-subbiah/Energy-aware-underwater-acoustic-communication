@@ -1,4 +1,4 @@
-# 🌊 Energy-Aware Underwater Acoustic Communication Simulator
+#  Energy-Aware Underwater Acoustic Communication Simulator
 
 An adaptive underwater acoustic communication simulator developed in **C**, implementing intelligent transmission strategies based on available battery energy and underwater channel conditions.
 
@@ -6,14 +6,14 @@ The simulator integrates a simplified **BELLHOP-inspired underwater acoustic cha
 
 ---
 
-## 📌 Features
+##  Features
 
 - Adaptive transmission strategy selection
 - Energy-aware communication
 - Three transmission modes
-  - 📡 Periodic Transmission
-  - ⚡ Event-Driven Transmission
-  - 🚀 Burst Transmission
+  -  Periodic Transmission
+  -  Event-Driven Transmission
+  -  Burst Transmission
 - Battery consumption simulation
 - BELLHOP-inspired channel modeling
 - SNR calculation
@@ -23,7 +23,7 @@ The simulator integrates a simplified **BELLHOP-inspired underwater acoustic cha
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 Underwater communication systems operate under severe energy constraints.
 
@@ -38,9 +38,9 @@ The objective is to maximize communication reliability while minimizing battery 
 
 ---
 
-## ⚙️ Transmission Modes
+##  Transmission Modes
 
-### 📡 Periodic Mode
+###  Periodic Mode
 
 - Low transmission power (10 W)
 - Sends data in chunks
@@ -49,7 +49,7 @@ The objective is to maximize communication reliability while minimizing battery 
 
 ---
 
-### ⚡ Event Mode
+###  Event Mode
 
 - Medium transmission power (25 W)
 - Triggered only when an event occurs
@@ -57,7 +57,7 @@ The objective is to maximize communication reliability while minimizing battery 
 
 ---
 
-### 🚀 Burst Mode
+###  Burst Mode
 
 - High transmission power (50 W)
 - Sends the complete message in one transmission
@@ -66,7 +66,7 @@ The objective is to maximize communication reliability while minimizing battery 
 
 ---
 
-## 🌊 Underwater Channel Model
+##  Underwater Channel Model
 
 The simulator uses a simplified BELLHOP-based acoustic model.
 
@@ -82,13 +82,13 @@ The receiver determines whether packets are successfully received according to t
 
 ---
 
-## 🔋 Adaptive Decision Logic
+##  Adaptive Decision Logic
 
 <img width="1433" height="697" alt="image" src="https://github.com/user-attachments/assets/d6be9f21-9821-426f-ae26-38561bcea1a8" />
 
 ---
 
-## 📊 Energy Model
+##  Energy Model
 
 Energy consumed is calculated as
 
@@ -99,7 +99,7 @@ Energy = (Message Length × Transmission Power) / Bitrate
 Battery energy decreases after every transmission.
 
 
-## 🖥️ Compilation
+##  Compilation
 
 ### GCC
 
@@ -122,7 +122,7 @@ simulator.exe
 
 ---
 
-## ▶️ Sample Execution
+##  Sample Execution
 
 ```
 Enter initial available energy:
@@ -145,7 +145,7 @@ Remaining Battery:
 
 ---
 
-## 📷 Sample Ouputs
+##  Sample Ouputs
 ### Without BELLHOP Channel Transmission
 #### Event Transmission
 
@@ -169,7 +169,7 @@ Remaining Battery:
 ---
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Dynamic transmission distance
 - Variable underwater noise
@@ -182,7 +182,7 @@ Remaining Battery:
 
 ---
 
-## 👨‍💻 Technologies Used
+##  Technologies Used
 
 - C Programming
 - Embedded C Concepts
@@ -193,7 +193,7 @@ Remaining Battery:
 
 ---
 
-## 📚 Applications
+##  Applications
 
 - Underwater Sensor Networks
 - Marine Environmental Monitoring
@@ -204,7 +204,7 @@ Remaining Battery:
 
 ---
 
-## 👩‍💻 Authors
+##  Authors
 
 Harshini S
 
