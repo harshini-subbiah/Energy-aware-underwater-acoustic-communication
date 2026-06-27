@@ -84,25 +84,7 @@ The receiver determines whether packets are successfully received according to t
 
 ## 🔋 Adaptive Decision Logic
 
-```
-              Event?
-                 │
-        ┌────────┴────────┐
-        │                 │
-       Yes               No
-        │                 │
- Enough Energy?     Burst Possible?
-        │                 │
-      Event Mode       Burst Mode
-        │                 │
-        └───────┬─────────┘
-                │
-        Enough for Periodic?
-                │
-          Periodic Mode
-                │
-           Otherwise Idle
-```
+<img width="1433" height="697" alt="image" src="https://github.com/user-attachments/assets/d6be9f21-9821-426f-ae26-38561bcea1a8" />
 
 ---
 
@@ -188,39 +170,29 @@ Remaining Battery:
 
 ---
 
-## 📷 Screenshots
+## 📷 Sample Ouputs
+### Without BELLHOP Channel Transmission
+#### Event Transmission
 
-### Main Menu
-
-*(Add screenshot here)*
-
----
-
-### Event Transmission
-
-*(Add screenshot here)*
+<img width="479" height="558" alt="image" src="https://github.com/user-attachments/assets/f84f67d6-f347-46b7-ae64-4d76b748b676" />
 
 ---
 
-### Burst Transmission
+#### Burst Transmission
 
-*(Add screenshot here)*
+<img width="479" height="282" alt="image" src="https://github.com/user-attachments/assets/27e0d22d-7432-4e9c-a75d-d73cb4a14ac5" />
+<img width="479" height="322" alt="image" src="https://github.com/user-attachments/assets/03d5145c-2c58-4e95-adea-55428b599e02" />
 
----
-
-### Periodic Transmission
-
-*(Add screenshot here)*
 
 ---
 
-### BELLHOP Channel Information
+#### Periodic Transmission
 
-*(Add screenshot here)*
+<img width="447" height="663" alt="image" src="https://github.com/user-attachments/assets/f775f51c-654d-453e-973d-36f1491395d3" />
+
 
 ---
 
----
 
 ## 🚀 Future Improvements
 
