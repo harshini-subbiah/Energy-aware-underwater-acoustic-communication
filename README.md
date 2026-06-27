@@ -98,31 +98,6 @@ Energy = (Message Length × Transmission Power) / Bitrate
 
 Battery energy decreases after every transmission.
 
----
-
-## 📂 Project Structure
-
-```
-energy-aware-underwater-acoustic-communication/
-
-│
-├── src/
-│     └── main.c
-│
-├── docs/
-│     └── Project_Report.pdf
-│
-├── screenshots/
-│
-├── output/
-│     └── sample_output.txt
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
 
 ## 🖥️ Compilation
 
