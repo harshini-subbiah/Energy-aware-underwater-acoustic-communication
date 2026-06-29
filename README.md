@@ -145,43 +145,6 @@ Remaining Battery:
 
 ---
 
-##  Sample Ouputs
-### Without BELLHOP Channel Transmission
-#### Event Transmission
-
-<img width="479" height="558" alt="image" src="https://github.com/user-attachments/assets/f84f67d6-f347-46b7-ae64-4d76b748b676" />
-
----
-
-#### Burst Transmission
-
-<img width="479" height="282" alt="image" src="https://github.com/user-attachments/assets/27e0d22d-7432-4e9c-a75d-d73cb4a14ac5" />
-<img width="479" height="322" alt="image" src="https://github.com/user-attachments/assets/03d5145c-2c58-4e95-adea-55428b599e02" />
-
-
----
-
-#### Periodic Transmission
-
-<img width="447" height="663" alt="image" src="https://github.com/user-attachments/assets/f775f51c-654d-453e-973d-36f1491395d3" />
-
-
----
-
-
-##  Future Improvements
-
-- Dynamic transmission distance
-- Variable underwater noise
-- Multi-node communication
-- Underwater sensor network simulation
-- Real BELLHOP output integration
-- GUI visualization
-- Energy harvesting model
-- Routing protocols
-
----
-
 ##  Technologies Used
 
 - C Programming
@@ -190,17 +153,6 @@ Remaining Battery:
 - Energy-Aware Communication
 - Windows API (Sleep)
 - GCC
-
----
-
-##  Applications
-
-- Underwater Sensor Networks
-- Marine Environmental Monitoring
-- Autonomous Underwater Vehicles (AUVs)
-- Offshore Exploration
-- Oceanographic Research
-- Defense Communication Systems
 
 ---
 
