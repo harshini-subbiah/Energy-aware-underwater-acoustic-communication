@@ -160,8 +160,6 @@ Remaining Battery:
 
 Harshini S
 
-VIT Chennai
-
 ---
 ## Contributors
 
